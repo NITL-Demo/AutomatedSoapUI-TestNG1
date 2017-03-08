@@ -30,7 +30,7 @@ public class SOAPUIRunnerTest {
 	        
 	        //String SOAPUI_CI_PROJECT= "SOAPUI composite project folder path";
 	
-	        String SOAPUI_CI_PROJECT = "D:\\codebase\\Automation-Codebase\\newone-selenium\\soapui-junit-master\\soapui-junit-master\\Pizzas-soapui-project.xml";
+	        String SOAPUI_CI_PROJECT = "/var/lib/jenkins/workspace/App_Exec_NFRTestNG/Pizzas-soapui-project.xml";
 	
 	        System.out.println("******************************* SOAP UI PROJECT FILE ************* "+SOAPUI_CI_PROJECT);
 	
