@@ -35,7 +35,7 @@ public class SOAPUIRunnerTest {
     public void test() {
 		
 		 try { 
-                        String projectFile = "/var/lib/jenkins/workspace/App_Exec_NFRTestNG/Pizzas-soapui-project.xml";
+                        String projectFile = "/var/lib/jenkins/workspace/App_Exec_FunctionalTest_TestNG/Pizzas-soapui-project.xml";
 			WsdlProject project = new WsdlProject(projectFile); 
 			for (TestSuite testSuite : project.getTestSuiteList()) { 
 
