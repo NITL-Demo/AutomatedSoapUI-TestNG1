@@ -29,7 +29,7 @@ import com.eviware.soapui.model.testsuite.TestSuite;
 public class SOAPUIRunnerTest {
 
 
-    private ArtifactPublisherListener listener; 
+    
 	
     @Test
     public void test() {
